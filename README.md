@@ -1,4 +1,4 @@
-# Automated SOC Architecture & Incident Response Pipeline
+# SOC Automation Homelab Project
 
 ## 📝 Executive Summary
 This project demonstrates the design, deployment, and configuration of a comprehensive Security Information and Event Management (SIEM) and Security Orchestration, Automation, and Response (SOAR) pipeline. Moving beyond basic log aggregation, this architecture automates threat detection, threat intelligence enrichment, and incident ticket creation to effectively reduce alert fatigue and accelerate the incident response lifecycle.
